@@ -11,14 +11,14 @@
 + Based on the noval gameplay,the player need to think more about the physical law and try to use the features from both body and soul.
 
 ### Game Scene:
-<img width="640" height="360" src="Game_MagicRing.png"/>
-<img width="640" height="360" src="Game_Light.png"/>
-<img width="640" height="360" src="Game_Transmit.png"/>
-<img width="640" height="360" src="Game_Wind.png"/>
+<div align="center"><img width="640" height="360" src="Game_MagicRing.png"/>
+<div align="center"><img width="640" height="360" src="Game_Light.png"/>
+<div align="center"><img width="640" height="360" src="Game_Transmit.png"/>
+<div align="center"><img width="640" height="360" src="Game_Wind.png"/>
 
 
 
 ### Video:
-*  [https://www.youtube.com/watch?v=rSl9URV3rQU](hhttps://www.youtube.com/watch?v=rSl9URV3rQUttps://www.youtube.com/watch?v=bSs49qSB9NM)
+[![IMAGE ALT TEXT HERE](Video.png)](https://www.youtube.com/watch?v=rSl9URV3rQUttps://www.youtube.com/watch?v=bSs49qSB9NM)
 ### Project:
 *  [https://drive.google.com/drive/u/1/folders/1DMCxR009bJspoFklFk9Csy7Rs-S3ANJN](https://drive.google.com/drive/u/1/folders/1DMCxR009bJspoFklFk9Csy7Rs-S3ANJN)
