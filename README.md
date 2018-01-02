@@ -18,5 +18,5 @@
 
 ### Video:
 [![IMAGE ALT TEXT HERE](Video.png)](https://www.youtube.com/watch?v=rSl9URV3rQUttps://www.youtube.com/watch?v=bSs49qSB9NM)
-### Project:
+### Game:
 *  [https://drive.google.com/drive/u/1/folders/1DMCxR009bJspoFklFk9Csy7Rs-S3ANJN](https://drive.google.com/drive/u/1/folders/1DMCxR009bJspoFklFk9Csy7Rs-S3ANJN)
