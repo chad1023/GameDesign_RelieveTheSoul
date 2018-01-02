@@ -5,7 +5,8 @@
 ### Indroduction:
 + A 3D action puzzle-platform game developed with the concept of Out-of-body experience(OBE).
 + The character in the game has ability to float outside the body and interact with some puzzles which are invisible in physical.
-<img width="640" height="360" src="Game_Soul.png"/></div>
+
+<div align="center"><img width="640" height="360" src="Game_Soul.png"/></div>
 
 + Based on the noval gameplay,the player need to think more about the physical law and try to use the features from both body and soul.
 
@@ -13,7 +14,7 @@
 <img width="640" height="360" src="Game_MagicRing.png"/>
 <img width="640" height="360" src="Game_Light.png"/>
 <img width="640" height="360" src="Game_Transmit.png"/>
-<img width="640" height="360" src="Game_Winda.png"/>
+<img width="640" height="360" src="Game_Wind.png"/>
 
 
 
